@@ -1,0 +1,53 @@
+#boasVindas{
+    background-color: burlywood;
+    text-align: center;
+
+}
+#sobreMim{
+    background-color: black;
+    color: whitesmoke;
+}
+body{
+    border-style: groove;
+    border-color: brown;
+    border-radius: 4px;
+    border-width: 10px;
+    text-align: center;
+}
+.lista{
+    position: fixed;
+    top: 0px;
+    width: 100%;
+    z-index: 10;
+    cursor: pointer;
+    margin-top: 0px;
+    background-color: darkslategrey;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.videosjg{
+    display: inline;
+    padding-left: 33px;
+    padding-right: 25px;
+    font-style: fantasy;
+    font-size: 20px;
+}
+.videosjg:hover{
+    font-size: 30px;
+    text-decoration: overline;
+    border-style: groove;
+    background-color: brown;
+}
+a{
+    text-decoration: none;
+}
+#sobreMim{
+    font-family: 'Cinzel decorative',cursive;
+    padding: 50px;
+}
+.line{
+    height: 6px;
+    background-color: bisque;
+    width: 92em;
+    margin: 8px auto;
+}
